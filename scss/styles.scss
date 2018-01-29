@@ -1,0 +1,15 @@
+@import 'colors';
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+btn-primary{
+    background-color: $blue;
+}
+
+section{
+
+    div{
+        width: 100px;
+        height: 100px;
+        background-color: $blue;
+    }
+}
